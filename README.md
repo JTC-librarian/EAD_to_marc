@@ -8,6 +8,6 @@ The script will not be re-useable without some editing because:
 
 The script is a pragmatic response to the challenge of converting EAD to MARC. If the data in the EAD is not formatted as expected, it will not produce a perfect record, but it would always be possible to perform a manual check after the records were created.
 
-Note that the MARC file that is created is for loading into the Alma, our Library Management System, as an External Data Source, though I think the records would work ok if loaded as standard MARC records too.
+Note that the MARC file that is created is for loading into Alma, our Library Management System, as an External Data Source, though I think the records would work OK if loaded as standard MARC records too.
 
-In each subfolder - one for each collection - I have put the original EAD, the Python script, and the resulting MARCxml.
+In each subfolder - one for each collection - I have put the original EAD, the Python script, and the resulting MARCXML.
