@@ -1,6 +1,6 @@
 This repository includes scripts to convert an EAD file to MARCXML that were written specifically for the two archival collections of Solent University:
--the papers of the TV writer/producer Philip Mackie
--a mainly photographic collection from the film director Ken Russell.
+- the papers of the TV writer/producer Philip Mackie
+- a mainly photographic collection from the film director Ken Russell.
 
 The script will not be re-useable without some editing because:
 - it creates some hard coded fields specific to the collection (e.g., 040, 100, 541)
