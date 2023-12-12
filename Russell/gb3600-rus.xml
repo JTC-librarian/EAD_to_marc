@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="archon">
+    <eadid countrycode="GB" mainagencycode="3600" identifier="gb3600-rus">gb3600-rus</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>The Ken Russell Collection</titleproper>
+      </titlestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>
+        Created by Solent University Library (Solent University Library) using the Archives Hub Editor
+        <date>2022-07-26</date>
+      </creation>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2022-12-15</date>
+        <item>Uploaded by Solent University Library (Solent University Library) using the Archives Hub Editor</item>
+      </change>
+      <change>
+        <date>2023-02-15</date>
+        <item>Last revision by Solent University Library (Solent University Library) using the Archives Hub Editor</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <unitid countrycode="GB" repositorycode="3600" identifier="RUS" label="current">RUS</unitid>
+      <unittitle>The Ken Russell Collection</unittitle>
+      <unitdate normal="1958/1993">1958 - 1993</unitdate>
+      <repository>
+        <corpname>Solent University Library</corpname>
+      </repository>
+      <origination>
+        <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/85079952">
+          <emph altrender="surname">Russell</emph>
+          <emph altrender="forename">Ken</emph>
+          <emph altrender="dates">1927-2011</emph>
+          <emph altrender="epithet">British film director</emph>
+        </persname>
+      </origination>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physdesc>
+        <extent>1 cabinet (2 linear metres)</extent>
+      </physdesc>
+    </did>
+    <bioghist audience="external">
+      <p>
+        Henry Kenneth Alfred Russell, known as Ken Russell, was a British film director. He was born in Southampton, Hampshire, England on 3 July 1927. He began making short films in the 1950s and made several documentaries for the BBC TV arts programme
+        <title>Monitor</title>
+        from 1959-1965. His 1969 film
+        <title>Women in Love</title>
+        , an adaptation of the D.H Lawrence novel, won him an Oscar nomination for Best Director. Several of Russell's films caused controversy for their nudity and portrayal of sexuality,
+        <title>The Devils</title>
+        (1971) probably causing the greatest furore. Other notable films include
+        <title>Tommy</title>
+        (1975) and
+        <title>Altered States</title>
+        (1980). Russell died on 27 November 2011 in Lymington, Hampshire, England.
+      </p>
+    </bioghist>
+    <scopecontent audience="external">
+      <p>The collection principally consists of still photographs taken on the sets of several of Russell's films; also included are scripts, videotapes, promotional materials for some of Russell's works, and miscellaneous other materials such as programmes for film festivals and film equipment (a light, a clapperboard, film tins).</p>
+    </scopecontent>
+    <arrangement audience="internal">
+      <p>The collection is organised alphabetically by title of the production, with items unrelated to a production at the end. It is not known whether this was the original arrangement.</p>
+    </arrangement>
+    <appraisal audience="internal">
+      <p>All items in the collection are to be retained permanently.</p>
+    </appraisal>
+    <accruals audience="internal">
+      <p>Further accruals are not expected.</p>
+    </accruals>
+    <processinfo>
+      <p>
+        The biographical information was gathered from
+        <extref href="https://www.britannica.com/biography/Ken-Russell">Encyclopaedia Britannica</extref>
+        and the BFI's
+        <extref href="http://www.screenonline.org.uk/people/id/467596/index.html">ScreenOnline</extref>
+        (both of which were last accessed on 6 December 2022).
+      </p>
+    </processinfo>
+    <custodhist>
+      <p>The collection was donated by Ken Russell. The precise date of the donation has not been recorded, but it is likely to have around 2000, and is certainly no later than 2002.</p>
+    </custodhist>
+    <acqinfo audience="internal">
+      <p>Donation</p>
+    </acqinfo>
+    <accessrestrict audience="external">
+      <p>
+        Access is by appointment only. Please email:
+        <extref href="mailto:library.support@solent.ac.uk">library.support@solent.ac.uk</extref>
+      </p>
+    </accessrestrict>
+    <userestrict>
+      <p>The collection is copyright protected. It cannot be reproduced without consultation with the archive manager.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">
+        <emph altrender="subject">Television--Great Britain--History--20th Century</emph>
+      </subject>
+      <subject source="lcsh">
+        <emph altrender="subject">Screenwriting</emph>
+      </subject>
+      <subject source="lcsh">
+        <emph altrender="subject">Filmmaking</emph>
+      </subject>
+      <subject source="lcsh">
+        <emph altrender="subject">Motion picture producers and directors</emph>
+      </subject>
+      <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/85079952">
+        <emph altrender="surname">Russell</emph>
+        <emph altrender="forename">Ken</emph>
+        <emph altrender="dates">1927-2011</emph>
+        <emph altrender="epithet">British film director</emph>
+      </persname>
+    </controlaccess>
+    <dsc>
+      <c01 level="series">
+        <did>
+          <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1" label="current">RUS/1</unitid>
+          <unittitle>Film, TV, Stage, and Radio Productions</unittitle>
+          <unitdate normal="1962/1986">1962 - 1986</unitdate>
+          <repository>
+            <corpname>Solent University Library</corpname>
+          </repository>
+          <langmaterial>
+            <language langcode="eng">English</language>
+          </langmaterial>
+          <physdesc>
+            <extent>1 cabinet (266 wallets)</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Material relating to Russell's film, television, and radio works, principally consisting of still photographs taken on the sets of these works, but also including scripts and videotapes.</p>
+        </scopecontent>
+        <note>
+          <p>Most entries in this series include a printed page (from Film Index International, or IMDB) giving details of the production (date, crew, cast); some of these are dated (November 2000). It is assumed, but not known, that these were printed by repository staff when the collection was originally arranged.</p>
+        </note>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/2" label="current">RUS/1/2</unitid>
+            <unittitle>The ABC of British Music</unittitle>
+            <unitdate normal="1988">1988</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname role="creator" rules="ncarules">
+                <emph altrender="surname">Farrell</emph>
+                <emph altrender="forename">Simon</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>3 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Three black and white photographs related to Ken Russell's documentary
+              <title>The ABC of British Music</title>
+              , which was broadcast by London Weekend Television on February 4, 1988. Two photographs are of the filming process, and are attributed in pencil to Simon Farrell. The third could be a still from the film.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt1118507/">IMDB page for The ABC of British Music</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname role="creator" rules="ncarules">
+              <emph altrender="surname">Farrell</emph>
+              <emph altrender="forename">Simon</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/1" label="current">RUS/1/1</unitid>
+            <unittitle>Alice in Russialand</unittitle>
+            <unitdate normal="1993/1995">1993 - 1995</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/15594922">
+                <emph altrender="surname">Meadows</emph>
+                <emph altrender="forename">Daniel</emph>
+                <emph altrender="dates">b 1952</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>24 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Items relating to the film
+              <title>Alice in Russialand</title>
+              , written and directed by Ken Russell.
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 3 typewritten scripts for
+              <title>Alice in Russialand</title>
+              , one dated 15.4.93.
+              <lb />
+              - 1 shooting schedule, dated 15.4.93
+              <lb />
+              - 20 colour slides appearing to show scenes from the film, and attributed to Daniel Meadows.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0174456/">IMDB page for Alice in Russialand</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/15594922">
+              <emph altrender="surname">Meadows</emph>
+              <emph altrender="forename">Daniel</emph>
+              <emph altrender="dates">b 1952</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/3" label="current">RUS/1/3</unitid>
+            <unittitle>Altered States</unittitle>
+            <unitdate normal="1980">1980</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>79 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Items relating to Ken Russell's film
+              <title>Altered States</title>
+              .
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 12 miniature (approximately 30 X 25 cm) promotional posters for the film.
+              <lb />
+              - 33 black and white photographs, 32 apparently stills from the film, 1 showing Russell on set.
+              <lb />
+              - 34 colour photographic slides, apparently stills from the film.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0080360/">IMDB page for Altered States</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/4" label="current">RUS/1/4</unitid>
+            <unittitle>The Boyfriend</unittitle>
+            <unitdate normal="1971/1972">1971 - 1972</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>73 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Items relating to Ken Russell's 1971 musical comedy
+              <title>The Boyfriend</title>
+              , an adaptation of Sandy Wilson's 1953 musical of the same title.
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 72 black and white photographs, most apparently stills from the film, possibly some from the filming process, one showing Russell copyrighted to MGM 1972.
+              <lb />
+              - a promotional booklet for the film.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0066858/">IMDB page for The Boyfriend</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/5" label="current">RUS/1/5</unitid>
+            <unittitle>Billion Dollar Brain</unittitle>
+            <unitdate normal="1967">1967</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname role="creator" rules="ncarules">
+                <emph altrender="surname">Jay</emph>
+                <emph altrender="forename">John</emph>
+                <emph altrender="dates">1920-2005</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>102 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Ken Russell's film
+              <title>Billion Dollar Brain</title>
+              , an adaptation of Len Deighton's novel of the same title.
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 101 black and white photographs taken during filming and breaks from filming. Many are attributed to John Jay; some show Russell himself, most are of the actors; one shows Russell's wife, Shirley, with their three sons, and has a note to "Mama Russell" on the back.
+              <lb />
+              - A promotional booklet ("Exhibitor's Campaign Book") for the film (11 pages)
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0061405/">IMDB page for Billion Dollar Brain</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname role="creator" rules="ncarules">
+              <emph altrender="surname">Jay</emph>
+              <emph altrender="forename">John</emph>
+              <emph altrender="dates">1920-2005</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/6" label="current">RUS/1/6</unitid>
+            <unittitle>Clouds of Glory</unittitle>
+            <unitdate normal="1978">1978</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>7 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Photographs showing Russell directing
+              <title>William and Dorothy</title>
+              , one of the episodes of
+              <title>Clouds of Glory</title>
+              .
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0077346/">IMDB page for Clouds of Glory</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/7" label="current">RUS/1/7</unitid>
+            <unittitle>Crimes of Passion</unittitle>
+            <unitdate normal="1984">1984</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>10 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Black and white photographs taken from the making of Russell's film
+              <title>Crimes of Passion</title>
+              . Most photographs appear to show scenes from the film, one shows Russell directing.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0087100/">IMDB page for Crimes of Passion</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/8" label="current">RUS/1/8</unitid>
+            <unittitle>Dante's Inferno</unittitle>
+            <unitdate normal="1967">1967</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules">
+                <emph altrender="surname">Konig</emph>
+                <emph altrender="forename">George</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>11 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Black and white photographs relating to Russell's film
+              <title>Dante's Inferno</title>
+              , broadcast by the BBC on 22 December 1967 as part of the documentary series
+              <title>Omnibus</title>
+              . One photograph appears to be a still from the film; the others, some of which are attributed to George Konig, may have been taken during filming.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0061552/">IMDB page for Dante's Inferno</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" role="creator" rules="ncarules">
+              <emph altrender="surname">Konig</emph>
+              <emph altrender="forename">George</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/9" label="current">RUS/1/9</unitid>
+            <unittitle>The Death of Alexander Scriabin</unittitle>
+            <unitdate normal="1995">1995</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>4 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Four copies of scripts for
+              <title>The Death of Alexander Scriabin</title>
+              , a radio play by Ken Russell about the Russian composer and pianist, broadcast in June 1995 on BBC Radio 3.
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/10" label="current">RUS/1/10</unitid>
+            <unittitle>Debussy</unittitle>
+            <unitdate normal="1963">1963</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>2 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Two photographs taken from the making of Russell's film
+              <title>Debussy</title>
+              .
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - A photograph of Victoria Russell, Ken Russell's daughter, 18 months old, with the actor Oliver Reed.
+              <lb />
+              - Apparently a photograph of a scene from the film.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0056980/">IMDB page for Debussy</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/11" label="current">RUS/1/11</unitid>
+            <unittitle>The Devils</unittitle>
+            <unitdate normal="1971">1971</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>97 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Photographs relating to Russell's film
+              <title>The Devils</title>
+              .
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              92 sheets (each sheet with multiple photographs) of colour photographs taken from the filming process.
+              <lb />
+              5 black and white photographs apparently showing stills from the film, 3 of which appear to be promotional material.
+            </p>
+          </scopecontent>
+          <arrangement>
+            <p>Six of the sheets of photographs are held in the third (oversize) drawer in the cabinet.</p>
+          </arrangement>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0066993/">IMDB page for The Devils</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/12" label="current">RUS/1/12</unitid>
+            <unittitle>The Diary of a Nobody</unittitle>
+            <unitdate normal="1964">1964</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>3 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Three black and white photographs taken during the filming of
+              <title>The Diary of a Nobody</title>
+              , Russell's film based on the novel by George and Weedon Grossmith.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://m.imdb.com/title/tt0058015/">IMDB page for The Diary of a Nobody</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/13" label="current">RUS/1/13</unitid>
+            <unittitle>Double Exposure</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>1 item</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              A treatment by Ken Russell for an episode of
+              <title>The South Bank Show</title>
+              discussing the lives of composer's widows. The treatment is titled
+              <title>Double Exposure</title>
+              , but it was broadcast as
+              <title>Classic Widows</title>
+              by ITV on 5 February 1995.
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/14" label="current">RUS/1/14</unitid>
+            <unittitle>Elgar's Land of Hope</unittitle>
+            <unitdate normal="1976">1976</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>1 item</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              A script (56 pages) for
+              <title>Elgar's Land of Hope</title>
+              , "a screen story by Ken Russell". It is dated 21 January 1976, and is to be distinguished from Russell's 1962 documentary about Elgar. It is unclear whether the script was ever made into a production.
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/15" label="current">RUS/1/15</unitid>
+            <unittitle>French Dressing</unittitle>
+            <unitdate normal="1963">1963</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>24 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              24 black and white photographs relating to Ken Russell's film
+              <title>French Dressing</title>
+              , apparently including stills from the film and photographs taken on set, which are labelled "to be returned to Chris Wicking," possibly the photographer.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0057073/">IMDB page for French Dressing</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/16" label="current">RUS/1/16</unitid>
+            <unittitle>Gothic</unittitle>
+            <unitdate normal="1986">1986</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>9 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Photographs (6 colour, 3 black and white) taken from Ken Russell's film
+              <title>Gothic</title>
+              .
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0091142/">IMDB page for Gothic</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/17" label="current">RUS/1/17</unitid>
+            <unittitle>Immortal Beloved</unittitle>
+            <unitdate normal="1985/1989">1985 - 1989</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules">
+                <emph altrender="surname">Anderson</emph>
+                <emph altrender="forename">Jo</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>3 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Three scripts of the film
+              <title>Immortal Beloved</title>
+              , written by Ken Russell and Jo Anderson.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://m.imdb.com/title/tt0110116/">IMDB page for Immortal Beloved</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" rules="ncarules">
+              <emph altrender="surname">Anderson</emph>
+              <emph altrender="forename">Jo</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/18" label="current">RUS/1/18</unitid>
+            <unittitle>The Insatiable Mrs Kirsch</unittitle>
+            <unitdate normal="1993">1993</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/101215487">
+                <emph altrender="surname">Baynes</emph>
+                <emph altrender="forename">Hetty 1956-</emph>
+              </persname>
+            </origination>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules">
+                <emph altrender="surname">Bourdillon</emph>
+                <emph altrender="forename">Mark</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <origination>
+              <corpname role="creator" rules="ncarules">
+                <emph altrender="name">Stay Still</emph>
+                <emph altrender="statusorfunction">Photography Company</emph>
+              </corpname>
+            </origination>
+            <physdesc>
+              <extent>193 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to the 1995 short film
+              <title>The Insatiable Mrs. Kirsch</title>
+              , written by Ken Russell and Hetty Baynes.
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 5 copies of a script for the film
+              <lb />
+              - 1 small envelope of negatives
+              <lb />
+              - 27 colour transparencies of photographs taken during filming, showing both Russell and (apparently) scenes from the film, attributed to Mark Bourdillon.
+              <lb />
+              - 159 colour slides taken during filming, showing both Russell and (apparently) scenes from the film, attributed to Stay Still.
+              <lb />
+              - 1 colour photograph, apparently showing Russell and his family.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0107218/">IMDB page for The Insatiable Mrs. Kirsch</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/101215487">
+              <emph altrender="surname">Baynes</emph>
+              <emph altrender="forename">Hetty 1956-</emph>
+            </persname>
+            <persname source="viaf" role="creator" rules="ncarules">
+              <emph altrender="surname">Bourdillon</emph>
+              <emph altrender="forename">Mark</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+            <corpname role="creator" rules="ncarules">
+              <emph altrender="name">Stay Still</emph>
+              <emph altrender="statusorfunction">Photography Company</emph>
+            </corpname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/19" label="current">RUS/1/19</unitid>
+            <unittitle>Isadora Duncan, the Biggest Dancer in the World</unittitle>
+            <unitdate normal="1966">1966</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>37 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              37 black and white photographs taken from
+              <title>Isadora Duncan, the Biggest Dancer in the World</title>
+              , also called
+              <title>Isadora</title>
+              , which was directed by Russell and broadcast by BBC TV in 1966.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0060546/">IMDB page for Isadora Duncan, the Biggest Dancer in the World</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/20" label="current">RUS/1/20</unitid>
+            <unittitle>Lady Chatterley</unittitle>
+            <unitdate normal="1993">1993</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>4 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Russell's film
+              <title>Lady Chatterley</title>
+              , including two black and white photographs of Russell, one with his son Rupert, on set, and two PAL VHS video cassettes (each 120 minutes, made by London Films).
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0104666/">IMDB page for Lady Chatterley</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/21" label="current">RUS/1/21</unitid>
+            <unittitle>Lisztomania</unittitle>
+            <unitdate normal="1975">1975</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/49161760179121640520">
+                <emph altrender="surname">Farrell</emph>
+                <emph altrender="forename">Simon</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>17 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Black and white and colour photographs taken from the making of Russell's film
+              <title>Lisztomania</title>
+              . At least one of the photographs is attributed, in pencil, to Simon Farrell.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0073298/">IMDB page for Lisztomania</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/49161760179121640520">
+              <emph altrender="surname">Farrell</emph>
+              <emph altrender="forename">Simon</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/22" label="current">RUS/1/22</unitid>
+            <unittitle>Mahler</unittitle>
+            <unitdate normal="1974">1974</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname role="creator" rules="ncarules">
+                <emph altrender="surname">Connor</emph>
+                <emph altrender="forename">Frank</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>40 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Ken Russell's film
+              <title>Mahler</title>
+              . There are 39 black and white photographs that appear to have been taken during film-making, some possibly showing scenes from the film; some are attributed to Frank Connor. There is also a promotional booklet for the film.
+            </p>
+          </scopecontent>
+          <arrangement>
+            <p>The booklet is in the third, oversize, drawer in the cabinet.</p>
+          </arrangement>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0071797/">IMDB page for Mahler</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname role="creator" rules="ncarules">
+              <emph altrender="surname">Connor</emph>
+              <emph altrender="forename">Frank</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/23" label="current">RUS/1/23</unitid>
+            <unittitle>Miscellaneous Photographs: Unknown Sources</unittitle>
+            <unitdate normal="1965/1985">approximately 1965 - approximately1985</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>12 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Twelve black and white photographs apparently taken during the filming of some of Russell's works. It has not been possible to identify the works for these items.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/24" label="current">RUS/1/24</unitid>
+            <unittitle>Ming Ti: The Lowlander</unittitle>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>2 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              2 copies extended treatment for
+              <title>Ming-Ti: The Lowlander</title>
+              , "the first 25 minute episode in the 12 part series by Ken Russell." There is no external evidence to suggest that this was ever produced.
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/25" label="current">RUS/1/25</unitid>
+            <unittitle>The Music Lovers</unittitle>
+            <unitdate normal="1971">1971</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>17 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Russell's film
+              <title>The Music Lovers</title>
+              .
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 8 colour photographs, apparently promotional stills.
+              <lb />
+              - 6 black and white photographs taken during filming.
+              <lb />
+              - 3 promotional booklets for the film, one in French, one labelled "Exhibitor's Campaign Book".
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0066109/">IMDB page for The Music Lovers</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/26" label="current">RUS/1/26</unitid>
+            <unittitle>The Rainbow</unittitle>
+            <unitdate normal="1989">1989</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/16136589">
+                <emph altrender="surname">Coote</emph>
+                <emph altrender="forename">Clive</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>1 item</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              An album with approximately 100 colour and black and white photographs from Russell's film
+              <title>The Rainbow</title>
+              , including both scenes from the film and photographs of Russell directing and in breaks from the filming. The album has a dedication: "For Ken, "Thank you for the film that changed my life," lots of love, Clive, 89". The album may well be a gift of Clive Coote, to whom some of the photographs are attributed.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0098165/">IMDB page for The Rainbow</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/16136589">
+              <emph altrender="surname">Coote</emph>
+              <emph altrender="forename">Clive</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/28" label="current">RUS/1/28</unitid>
+            <unittitle>The Rake's Progress</unittitle>
+            <unitdate normal="1982">1982</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>35 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              35 black and white photographs of on-stage and behind-the-scenes action from
+              <title>Rakes Progress</title>
+              , a production of the Stravinsky opera, directed by Russell, at the Maggio Musicale festival in Florence in 1982.
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/27" label="current">RUS/1/27</unitid>
+            <unittitle>Salome's Last Dance</unittitle>
+            <unitdate normal="1988">1988</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <origination>
+              <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/16136589">
+                <emph altrender="surname">Coote</emph>
+                <emph altrender="forename">Clive</emph>
+                <emph altrender="epithet">Photographer</emph>
+              </persname>
+            </origination>
+            <physdesc>
+              <extent>4 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              An album containing 67 photographs (black and white; colour) relating to Russell's film,
+              <title>Salome's Last Dance</title>
+              , including both scenes from the film and photographs of Russell directing and in breaks from the filming. The album is inscribed as from "Clive", and may well be a gift of Clive Coote, to whom some of the photographs are attributed.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0096029/">IMDB page for Salome's Last Dance</extref>
+            </p>
+          </odd>
+          <controlaccess>
+            <persname source="viaf" role="creator" rules="ncarules" authfilenumber="https://viaf.org/viaf/16136589">
+              <emph altrender="surname">Coote</emph>
+              <emph altrender="forename">Clive</emph>
+              <emph altrender="epithet">Photographer</emph>
+            </persname>
+          </controlaccess>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/36" label="current">RUS/1/36</unitid>
+            <unittitle>Salome [Opera]</unittitle>
+            <unitdate normal="1993">1993</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <langmaterial>
+              <language langcode="ger">German</language>
+            </langmaterial>
+            <physdesc>
+              <extent>3 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Three copies of a booklet (63 p.),
+              <title>Salome</title>
+              , published by Oper der Stadt Bonn. The publication appears to be designed to accompany a production of Richard Strauss' opera
+              <title>Salome</title>
+              , directed by Russell.
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/29" label="current">RUS/1/29</unitid>
+            <unittitle>Savage Messiah</unittitle>
+            <unitdate normal="1972">1972</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>138 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Ken Russell's film,
+              <title>Savage Messiah</title>
+              , which tells the story of the French sculptor Henri Gaudier-Brzeska.
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - 133 black and white photographs showing scenes from the film and breaks between filming, including shots of Russell giving direction and of Victoria Russell (age 10), daughter of Ken Russell, who had a role in the film.
+              <lb />
+              - Promotional material for the film: 1 colour photograph, 1 MGM Pressbook, 2 small posters, 1 sheet titled 'Press &amp; Advertising Material for MGM's Savage Messiah.'
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0069225/">IMDB page for Savage Messiah</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/31" label="current">RUS/1/31</unitid>
+            <unittitle>The Strange Affliction of Anton Bruckner</unittitle>
+            <unitdate normal="1990">1990</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>6 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Photographs relating to Ken Russell's film
+              <title>The Strange Affliction of Anton Bruckner</title>
+              . All photographs show Russell directing the film. There are two large (approximately 40 x 30 cm) black and white photographs and 4 small (approximately 15 x 10 cm) colour photographs.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0100700/">IMDB page for The Strange Affliction of Anton Bruckner</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/30" label="current">RUS/1/30</unitid>
+            <unittitle>Tommy</unittitle>
+            <unitdate normal="1975">1975</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>11 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Ken Russell's film
+              <title>Tommy</title>
+              . There are 10 black and white photographs showing scenes from the film or during breaks in filming, including some of Russell. There is also a colour program to accompany the film.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0073812/">IMDB page for Tommy</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/32" label="current">RUS/1/32</unitid>
+            <unittitle>Treasure Island</unittitle>
+            <unitdate normal="1995">1995</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>3 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Ken Russell's film
+              <title>Treasure Island</title>
+              , which was broadcast by Channel 4 in 1995.
+            </p>
+            <p>
+              Detailed contents:
+              <lb />
+              - A typed 'first draft script', 1 June 1995.
+              <lb />
+              - What appears to be a draft for a promotional booklet for the film, including a synopsis, short biographies of key cast and crew.
+              <lb />
+              - A notebook containing a handwritten version of the script.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0756354/">IMDB page for Treasure Island</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/33" label="current">RUS/1/33</unitid>
+            <unittitle>Two Women and a Horse, or, St Mawr</unittitle>
+            <unitdate normal="1985">1985</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>1 item (109 pages)</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              A typewritten script for a screenplay entitled
+              <title>Two Women and a Horse</title>
+              by Ken Russell. It is based on D. H. Lawrence's novella
+              <title>St Mawr</title>
+              .
+            </p>
+          </scopecontent>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/34" label="current">RUS/1/34</unitid>
+            <unittitle>Valentino</unittitle>
+            <unitdate normal="1977">1977</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>10 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Photographs relating to Ken Russell's film
+              <title>Valentino</title>
+              . There are eight colour photographs that appear to be promotional material, and two black and white photographs of the filming, one showing Russell.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0076868/">IMDB page for Valentino</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/35" label="current">RUS/1/35</unitid>
+            <unittitle>Women in Love</unittitle>
+            <unitdate normal="1969">1969</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>27 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Material relating to Ken Russell's film,
+              <title>Women in Love</title>
+              .
+            </p>
+            <p>
+              - 21 black and white photographs taken during filming, some apparently showing scenes from the film, others showing the filming process.
+              <lb />
+              - Promotional material for the film: 4 colour promotional photographs, 1 promotional booklet ("Exhibitor's Campaign Book"), 1 sheet showing various different advertisements.
+            </p>
+          </scopecontent>
+          <odd>
+            <p>
+              <extref href="https://www.imdb.com/title/tt0066579/">IMDB page for Women in Love</extref>
+            </p>
+          </odd>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/1/37" label="current">RUS/1/37</unitid>
+            <unittitle>Russell's Still Photography</unittitle>
+            <unitdate normal="1958">1958</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>10 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Still photographs taken by Russell during his time as a professional photographer. There are cuttings from magazines (
+              <title>Illustrated</title>
+              and
+              <title>The Sketch</title>
+              ) containing his photographs, and one black and white photograph.
+            </p>
+          </scopecontent>
+          <arrangement>
+            <p>The items are filed under: Ken Russell: friends and family.</p>
+          </arrangement>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid countrycode="GB" repositorycode="3600" identifier="RUS/2" label="current">RUS/2</unitid>
+          <unittitle>Personal Material</unittitle>
+          <unitdate normal="1958/1993">1958 - 1993</unitdate>
+          <repository>
+            <corpname>Solent University Library</corpname>
+          </repository>
+          <langmaterial>
+            <language langcode="eng">English</language>
+          </langmaterial>
+          <physdesc>
+            <extent>16 items</extent>
+          </physdesc>
+        </did>
+        <scopecontent>
+          <p>Material not closely connected to any of Russell's TV and film works. Includes photographs Russell's family and friends, a letter, and newspaper clippings and pamphlets that Russell kept.</p>
+        </scopecontent>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/2/1" label="current">RUS/2/1</unitid>
+            <unittitle>Photographs</unittitle>
+            <unitdate normal="1972/1993">approximately 1972 - 1993</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>8 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Various photographs owned by Russell that do not relate to a particular one of his works.</p>
+            <p>
+              Detailed contents:
+              <lb />
+              - Five black and white promotional photographs of Dorothy Lamour, taken from her works.
+              <lb />
+              - One black and white photograph of Ken Russell with director Jack Gold, apparently on stage at a conference.
+              <lb />
+              - Two black and white photographs, apparently of a shop window display about Ken Russell.
+            </p>
+          </scopecontent>
+          <arrangement>
+            <p>The items are filed under: Ken Russell: friends and family.</p>
+          </arrangement>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/2/2" label="current">RUS/2/2</unitid>
+            <unittitle>Correspondence</unittitle>
+            <unitdate normal="1994">1994</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>1 item</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>A letter written to Mr Russell from Joanne Deacon (dated 21.03.94); it appears to have originally accompanied a work for Russell to read.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Items filed under: Ken Russell: Friends and Family</p>
+          </arrangement>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/2/3" label="current">RUS/2/3</unitid>
+            <unittitle>Pamphlets</unittitle>
+            <unitdate normal="1956/1986">1956 - 1986</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>approximately 50 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>
+              Magazines, brochures, and pamphlets relating to the film industry, including:
+              <title>Critics Choice</title>
+              , programmes from the National Film Theatre, the New Cinema Club, the London Film Festival.
+            </p>
+          </scopecontent>
+          <arrangement>
+            <p>Held in a box in drawer 4.</p>
+          </arrangement>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/2/4" label="current">RUS/2/4</unitid>
+            <unittitle>Film Equipment</unittitle>
+            <unitdate normal="1970">approximately 1970</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>6 items</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Three empty film tins, one reel of film, one light, one clapperboard.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Held in a box in drawer 4.</p>
+          </arrangement>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <unitid countrycode="GB" repositorycode="3600" identifier="RUS/2/5" label="current">RUS/2/5</unitid>
+            <unittitle>Newspaper Poster</unittitle>
+            <unitdate normal="1986">1986</unitdate>
+            <repository>
+              <corpname>Solent University Library</corpname>
+            </repository>
+            <physdesc>
+              <extent>1 item</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>A newspaper poster for The Sun (Melbourne), approximately 70 x 50 cm, displaying the headline "Spoleto Nudity Shock" and dated Friday, September 12, 1986. It must related to the Spoleto Festival, held in Melbourne for the first time in 1986, at which Russell was an exhibitor.</p>
+          </scopecontent>
+          <arrangement>
+            <p>Items filed under: Ken Russell: Friends and Family</p>
+          </arrangement>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
